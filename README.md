@@ -1,4 +1,4 @@
-# 🐾 Pəncə (Paw) - Smart Lost & Found Pet Network
+# 🐾 PAW - Smart Lost & Found Pet Network
 
 ## 📌 Overview
 **Pəncə** (meaning "Paw") is a community-driven backend service designed to reunite lost pets with their owners. It moves beyond traditional manual searching by utilizing a **passive participant network** and **Perceptual Hashing (pHash)** for intelligent image matching. 
